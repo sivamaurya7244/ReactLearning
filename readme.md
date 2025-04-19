@@ -1,3 +1,0 @@
-Testing...
-
-step 1: npm create vie@latest

@@ -7,8 +7,9 @@ import App, { Counter } from './App.jsx'
 const r =createRoot(document.getElementById('root'));
 r.render(
   <StrictMode>
-    <App />
     <Counter />
+    <App />
+    <h1>Hello Siva | first work</h1>
   </StrictMode>,
 )
 

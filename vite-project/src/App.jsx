@@ -9,7 +9,10 @@ function App() {
 
 function Counter() {
   return(
+    <>
     <Test></Test>
+    <h1>Test for fregmentation</h1>
+    </>
   )
   
 }
